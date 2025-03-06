@@ -146,7 +146,7 @@ const TaskManager = ({ token, user, setToken }) => {
                 onClick={() => setShowRegisterPopup(true)}
                 className="add-user-button"
               >
-                Kullanıcı Ekle
+                Add User
               </button>
             )}
             <button onClick={handleLogout} className="logout-button">
@@ -240,7 +240,7 @@ const TaskManager = ({ token, user, setToken }) => {
       {showRegisterPopup && user.role === 'admin' && (
         <div className="popup-overlay" onClick={() => setShowRegisterPopup(false)}>
           <div className="popup-content" onClick={(e) => e.stopPropagation()}>
-            <h2>Kullanıcı Ekle</h2>
+            <h2>Add User</h2>
             <form onSubmit={handleRegister} className="task-form">
               <input
                 value={registerUserName}
