@@ -1,0 +1,20 @@
+[
+  {
+    "user_name": "Eren Admin",
+    "tc_no": "43212354366",
+    "password": "$2b$10$6JxikeyFw2JPp6ac6gVJm.G1uOe9MMCjobtk4FIDS.GS8jxgiSkBK",
+    "role": "admin"
+  },
+  {
+    "user_name": "Eren Kullanıcı",
+    "tc_no": "85423167894",
+    "password": "$2b$10$ck4glhbLDlV9237rpjFJZO/x1nrRuF/LpAmOpp63eTvaebpkOQ.E.",
+    "role": "user"
+  },
+  {
+    "user_name": "test user",
+    "tc_no": "55555555555",
+    "password": "$2b$10$Oq7a4PdvI7zOWJLMvgJRVOMx.SwTOp9f/FDoq0MccmGttq9h.LUOW",
+    "role": "user"
+  }
+]
