@@ -18,7 +18,7 @@ Bu proje kullanıcıların görevleri oluşturabileceği, düzenleyebileceği ve
 ## Kurulum
 
 ### Gereksinimler
-- Node.js (v20.x önerilir)
+- Node.js  (min v20.x önerilir)
 - npm
 
 ### Adımlar
