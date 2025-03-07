@@ -1,6 +1,6 @@
 # Task Management Application
 
-Bu proje kullanıcıların görevleri oluşturabileceği, düzenleyebileceği ve silebileceği bir görev yönetim uygulamasını içerir. Admin ve normal kullanıcı rolleri ile yetkilendirme yapılmıştır. Kullanıcı ekleme işlemi yalnızca adminler tarafından gerçekleştirilebilir ve TC kimlik numarası 11 haneli olmak zorundadır.
+Bu proje kullanıcıların görevleri oluşturabileceği, düzenleyebileceği ve silebileceği bir görev yönetim uygulamasını içerir. Admin ve normal kullanıcı rolleri ile yetkilendirme yapılmıştır. Kullanıcı ekleme işlemi yalnızca adminler tarafından gerçekleştirilebilir.
 
 ## Özellikler
 - **Kullanıcı Girişi**: TC kimlik numarası ve şifre ile giriş yapma.
