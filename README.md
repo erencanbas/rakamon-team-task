@@ -32,7 +32,6 @@ Bu proje kullanıcıların görevleri oluşturabileceği, düzenleyebileceği ve
    ```bash
    cd backend
    npm install
-   echo "SECRET_KEY=your-secret-key" > .env
    node index.js
    ```
 
